@@ -1,0 +1,20 @@
+{
+    "name": "weather-dashboard",
+    "version": "1.0.0",
+    "description": "A Vue.js weather dashboard application",
+    "main": "main.js",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "vue": "^2.6.12"
+    },
+    "devDependencies": {
+        "@vue/cli-service": "^3.3.1",
+        "webpack": "^5.94.0",
+        "webpack-cli": "^5.1.4",
+        "webpack-dev-server": "^5.0.4"
+    }
+}
