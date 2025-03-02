@@ -1,6 +1,7 @@
 <table>
     <tr>
-        <td><img src="https://github.com/DakiKing/weather-dashboard-final/blob/main/weather-dashboard-fp.png?raw=true" width="300px"></td>
+        <td><img src="https://github.com/DakiKing/weather-dashboard-final/blob/main/weather-dashboard-fp.png?raw=true" width="300px">
+        </td>
         <td>
             <h1>Weather-Dashboard</h1>
    
