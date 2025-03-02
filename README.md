@@ -1,5 +1,9 @@
-<h1>Weather-Dashboard</h1>
-    <img src="https://github.com/DakiKing/weather-dashboard-final/blob/main/weather-dashboard-fp.png?raw=true" alt="Dashboard Screenshot">
+<table>
+    <tr>
+        <td><img src="https://github.com/DakiKing/weather-dashboard-final/blob/main/weather-dashboard-fp.png?raw=true" width="300px"></td>
+        <td>
+            <h1>Weather-Dashboard</h1>
+   
 <h2>Features</h2>
     <ul>
         <li>Automatically detects your current location and displays it real-time </li>
@@ -18,3 +22,8 @@
         <li><strong>OpenWeather API</strong> - Weather data source</li>
         <li><strong>CSS</strong> - Styling</li>
     </ul>
+
+
+</td>
+ </tr>
+</table>
